@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vítejte na mém Discord serveru</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Vítejte na mém Discord serveru!</h1>
+        </header>
+        <main>
+            <p>Připojte se k nám kliknutím na následující odkaz:</p>
+            <a href="YOUR_DISCORD_INVITE_LINK" target="_blank" class="invite-button">Pozvánka na Discord</a>
+        </main>
+        <footer>
+            <p>&copy; 2024 Váš Jméno. Všechna práva vyhrazena.</p>
+        </footer>
+    </div>
+</body>
+</html>
